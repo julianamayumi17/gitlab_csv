@@ -1,0 +1,2 @@
+comando utilizado no terminal para rodar o programa: node issues.js -c "data.csv"
+> deve se iniciar dentro da pasta que esta o arquivo issues.js e data.csv
